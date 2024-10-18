@@ -12,4 +12,11 @@ Imágenes de ejemplo del archivo javadoc generado para Vuelos
 ![image](https://github.com/user-attachments/assets/80fd5804-2a12-4836-b042-8bdd07688678)
 ![image](https://github.com/user-attachments/assets/9edc46f3-c8ec-40aa-9735-e5a44b4e9bc1)
 
+Diagrama de clases de Biblioteca
+![image](https://github.com/user-attachments/assets/f529064b-45af-46a4-a1bc-d84f042daa77)
 
+Diagrama de clases de Restaurante 
+![image](https://github.com/user-attachments/assets/9824ac5a-d21f-45d7-b4c8-d4c9010e00a1)
+
+Diagrama de clases de Vuelos
+![image](https://github.com/user-attachments/assets/9a010d0c-c536-4cd3-b471-15ff691ffc3b)
